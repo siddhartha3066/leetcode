@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhartha3066/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhartha3066/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhartha3066/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddhartha3066/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhartha3066/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddhartha3066/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/siddhartha3066/leetcode/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhartha3066/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhartha3066/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhartha3066/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
