@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/siddhartha3066/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/siddhartha3066/leetcode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhartha3066/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/siddhartha3066/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/siddhartha3066/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/siddhartha3066/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/siddhartha3066/leetcode/tree/master/0217-contains-duplicate) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/siddhartha3066/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/siddhartha3066/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/siddhartha3066/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhartha3066/leetcode/tree/master/0242-valid-anagram) |
