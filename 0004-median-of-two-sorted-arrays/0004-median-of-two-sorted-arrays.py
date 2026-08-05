@@ -5,4 +5,4 @@ class Solution:
         if n%2:
             return arr[n//2]
         else:
-            return (arr[(n//2) - 1]+arr[n//2]) /2
+            return (arr[n//2- 1]+arr[n//2]) /2
