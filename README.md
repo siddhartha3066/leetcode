@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddhartha3066/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/siddhartha3066/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddhartha3066/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/siddhartha3066/leetcode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhartha3066/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/siddhartha3066/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/siddhartha3066/leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/siddhartha3066/leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/siddhartha3066/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
