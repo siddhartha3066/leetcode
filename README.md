@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/siddhartha3066/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddhartha3066/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/siddhartha3066/leetcode/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siddhartha3066/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhartha3066/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhartha3066/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/siddhartha3066/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/siddhartha3066/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siddhartha3066/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
