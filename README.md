@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siddhartha3066/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddhartha3066/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/siddhartha3066/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/siddhartha3066/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/siddhartha3066/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/siddhartha3066/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/siddhartha3066/leetcode/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddhartha3066/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhartha3066/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/siddhartha3066/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/siddhartha3066/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/siddhartha3066/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/siddhartha3066/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhartha3066/leetcode/tree/master/0242-valid-anagram) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddhartha3066/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/siddhartha3066/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhartha3066/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhartha3066/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddhartha3066/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/siddhartha3066/leetcode/tree/master/0231-power-of-two) |
 ## Bracket Sequences
 |  |
