@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/siddhartha3066/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhartha3066/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhartha3066/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhartha3066/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/siddhartha3066/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhartha3066/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhartha3066/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhartha3066/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
