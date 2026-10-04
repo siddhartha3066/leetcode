@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhartha3066/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhartha3066/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/siddhartha3066/leetcode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhartha3066/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddhartha3066/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siddhartha3066/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddhartha3066/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddhartha3066/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhartha3066/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/siddhartha3066/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhartha3066/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhartha3066/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhartha3066/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhartha3066/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/siddhartha3066/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
