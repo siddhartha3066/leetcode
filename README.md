@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/siddhartha3066/leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/siddhartha3066/leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhartha3066/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/siddhartha3066/leetcode/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/siddhartha3066/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
