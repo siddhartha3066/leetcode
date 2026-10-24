@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/siddhartha3066/leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhartha3066/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/siddhartha3066/leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/siddhartha3066/leetcode/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/siddhartha3066/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/siddhartha3066/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddhartha3066/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/siddhartha3066/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/siddhartha3066/leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhartha3066/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
