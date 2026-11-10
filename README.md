@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhartha3066/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhartha3066/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/siddhartha3066/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/siddhartha3066/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddhartha3066/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhartha3066/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/siddhartha3066/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/siddhartha3066/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
