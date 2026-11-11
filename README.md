@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddhartha3066/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/siddhartha3066/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siddhartha3066/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/siddhartha3066/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/siddhartha3066/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddhartha3066/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/siddhartha3066/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhartha3066/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
